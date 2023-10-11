@@ -10,7 +10,7 @@ import numpy as np
 import math
 
 # Enter the text message that you want to encrypt
-text_msg = 'Hi, I am Himaja, I am doing MS in Computer Science in Texas Tech University'
+text_msg = 'Hi, I am Himaja, I am doing MS in Computer Science at Texas Tech University'
 
 ### Converting the above message to ascii values
 msg_ascii = [ord(letters) for letters in text_msg]
